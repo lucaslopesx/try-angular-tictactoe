@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "try-angular-tictactoe": {
+      "hosting": {
+        "myapp": [
+          "try-angular-tictactoe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "try-angular-tictactoe"
+  }
+}
